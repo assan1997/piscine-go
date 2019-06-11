@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l | sed '$!N;s/\n//'
+ls -l | awk '!(NR%2){print}'
