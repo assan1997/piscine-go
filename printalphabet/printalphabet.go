@@ -50,6 +50,7 @@ func main(){
 	z01.PrintRune(variableQ)
 	z01.PrintRune(variableR)
 	z01.PrintRune(variableS)
+	z01.PrintRune(variableT)
 	z01.PrintRune(variableU)
 	z01.PrintRune(variableV)
 	z01.PrintRune(variableW)
